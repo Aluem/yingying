@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b51c5d9-270b-4dce-b05b-cbc420af4c8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoH6Ad7nIXzXhybDgRYhgdXC70" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yingying_common/src/main/java/top/aluem/common/query" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="top.aluem.video" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\IdeaProjects\yingying_parent\yingying_common\src\main\java\top\aluem\common\query" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.aluem.common.entity" />
+      <recent name="top.aluem.common.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VideoApplication">
+    <configuration name="ContentMapperTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yingying_video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.aluem.video.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.aluem.video" />
+      <option name="MAIN_CLASS_NAME" value="top.aluem.video.ContentMapperTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentMapperTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yingying_video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.aluem.video.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.aluem.video" />
+      <option name="MAIN_CLASS_NAME" value="top.aluem.video.ContentMapperTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yingying_video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.aluem.video.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.aluem.video.VideoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.VideoApplication" />
+        <item itemvalue="JUnit.ContentMapperTest.test02" />
+        <item itemvalue="JUnit.ContentMapperTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b51c5d9-270b-4dce-b05b-cbc420af4c8a" name="Default Changelist" comment="" />
+      <created>1585498349130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585498349130</updated>
+      <workItem from="1585498352213" duration="3305000" />
+      <workItem from="1585574842073" duration="2240000" />
+      <workItem from="1585577244150" duration="88000" />
+      <workItem from="1585577339869" duration="172000" />
+      <workItem from="1585577747051" duration="11314000" />
+      <workItem from="1585665575431" duration="10848000" />
+      <workItem from="1585751332443" duration="5295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="79" key="#Project_Structure" timestamp="1585498646894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="79" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585498646894" />
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1585753238017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585753238017" />
+    <state x="300" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585586350343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1585586350343" />
+    <state x="496" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585584757965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1585584757964" />
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585577972147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585577972147" />
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585753313895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585753313895" />
+    <state x="409" y="119" key="FileChooserDialogImpl" timestamp="1585577399042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585577399042" />
+    <state width="722" height="2" key="GridCell.Tab.0.bottom" timestamp="1585756759084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585756759084" />
+    <state width="722" height="2" key="GridCell.Tab.0.center" timestamp="1585756759083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585756759083" />
+    <state width="722" height="2" key="GridCell.Tab.0.left" timestamp="1585756759083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585756759083" />
+    <state width="722" height="2" key="GridCell.Tab.0.right" timestamp="1585756759084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585756759084" />
+    <state width="722" height="2" key="GridCell.Tab.1.bottom" timestamp="1585756759084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585756759084" />
+    <state width="722" height="2" key="GridCell.Tab.1.center" timestamp="1585756759084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585756759084" />
+    <state width="722" height="2" key="GridCell.Tab.1.left" timestamp="1585756759084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585756759084" />
+    <state width="722" height="2" key="GridCell.Tab.1.right" timestamp="1585756759084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="722" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585756759084" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1585577504578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585577504578" />
+    <state x="356" y="110" key="new project wizard" timestamp="1585500313512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="110" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585500313512" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585586008089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585586008088" />
+  </component>
+</project>
